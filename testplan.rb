@@ -57,15 +57,20 @@ class SolidusDriver < RailsDriver
       'quantity'           => '1'
     }
     visit '/checkout'
-    put '/checkout/registration', order: {email: 'test@example.com'}
+    put '/checkout/registration', order: {email: 'test@example.com'} do
+      extract xpath: '//select[@name="order[bill_address_attributes][country_id]"]/option[text()="United States of America"]/@value', name: 'country_id', tolerant: true
+    end
+    visit '/api/states?country_id=${country_id}' do
+      extract name: 'state_id', json: "$.states[?(@.name=='New York')][0].id"
+    end
     patch '/checkout/update/address', order: {
       bill_address_attributes: {
         firstname: 'DeeDee',
         lastname: 'Ramone',
         address1: '53rd & 3rd',
         city: 'New York',
-        country_id: 38,
-        state_id: 425,
+        country_id: '${country_id}',
+        state_id: '${state_id}',
         zipcode: '10001',
         phone: '5555555555'
       },
