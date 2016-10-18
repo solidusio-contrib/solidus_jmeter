@@ -112,7 +112,7 @@ test do
   graph_results
   response_time_graph
   summary_report
-  transactions_per_second "transactions per 30s", interval_grouping: 30000
+  transactions_per_second name: "transactions per 30s", interval_grouping: 30000
   view_results_tree
   assertion_results
 
@@ -127,4 +127,4 @@ test do
       SolidusDriver.new(self).perform
     end
   end
-end.run(path: './apache-jmeter-2.13/bin/', gui: true)
+end.run(path: File.dirname(`which jmeter`), gui: true)
