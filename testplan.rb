@@ -120,7 +120,7 @@ test do
   #defaults domain: 'demo.solidus.io', protocol: 'https', download_resources: false, use_concurrent_pool: 5
 
   cache clear_each_iteration: true
-  cookies
+  cookies policy: "standard"
 
   threads count: 10, duration: 240 do
     transaction 'checkout' do
