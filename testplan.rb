@@ -57,11 +57,11 @@ class SolidusDriver < RailsDriver
       'quantity'           => '1'
     }
     visit '/checkout'
-    put '/checkout/registration', order: {email: 'test@example.com'} do
+    put '/checkout/registration', {'order' => { 'email' => 'test@example.com'}, "commit" => "Continue" } do
       extract xpath: '//select[@name="order[bill_address_attributes][country_id]"]/option[text()="United States of America"]/@value', name: 'country_id', tolerant: true
     end
     visit '/api/states?country_id=${country_id}' do
-      extract name: 'state_id', json: "$.states[?(@.name=='New York')][0].id"
+      extract name: 'state_id', json: "$.states[?(@.name=='New York')].id"
     end
     patch '/checkout/update/address', order: {
       bill_address_attributes: {
@@ -70,7 +70,7 @@ class SolidusDriver < RailsDriver
         address1: '53rd & 3rd',
         city: 'New York',
         country_id: '${country_id}',
-        state_id: '${state_id}',
+        state_id: '${state_id_1}',
         zipcode: '10001',
         phone: '5555555555'
       },
@@ -120,7 +120,7 @@ test do
   #defaults domain: 'demo.solidus.io', protocol: 'https', download_resources: false, use_concurrent_pool: 5
 
   cache clear_each_iteration: true
-  cookies policy: "standard"
+  cookies policy: "standard", clear_each_iteration: true
 
   threads count: 10, duration: 240 do
     transaction 'checkout' do
