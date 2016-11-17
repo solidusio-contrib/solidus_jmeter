@@ -142,7 +142,7 @@ test do
   cache clear_each_iteration: true
   cookies policy: "standard", clear_each_iteration: true
 
-  threads count: 10, duration: 240 do
+  threads count: 10, duration: 240, on_sample_error: 'startnextloop' do
     transaction 'checkout' do
       CandleScienceDriver.new(self).perform
     end
