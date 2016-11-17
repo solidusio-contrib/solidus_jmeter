@@ -135,9 +135,10 @@ test do
   transactions_per_second name: "transactions per 30s", interval_grouping: 30000
   view_results_tree
   assertion_results
-
-  defaults domain: 'localhost', protocol: 'http', port: 3000, download_resources: false
-  #defaults domain: 'demo.solidus.io', protocol: 'https', download_resources: false, use_concurrent_pool: 5
+  header name: 'X-No-Throttle', value: '533ebbcfa332680dad67f99c4439aff11d8359a7ddb50bb249e42d56eacb0da3ad2fe421315fd9a825ca6f714c806c843678a3eb602b02e416d7db8e5484da66'
+  auth username: 'spree_cs_demo', password: 'k33pS3cr3tz%'
+  #defaults domain: 'psychomantis.herokuapp.com', protocol: 'https', image_parser: false
+  defaults domain: 'localhost', protocol: 'https', image_parser: false, use_concurrent_pool: 5
 
   cache clear_each_iteration: true
   cookies policy: "standard", clear_each_iteration: true
