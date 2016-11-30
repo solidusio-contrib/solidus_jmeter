@@ -1,0 +1,1558 @@
+---
+- :number: R070166190
+  :line_items:
+  - :variant_id: 2002
+    :slug: containers/8oz-oval-hex-jar
+    :quantity: 10
+  - :variant_id: 8
+    :slug: wax/ecosoya-advanced-soy-wax
+    :quantity: 1
+  - :variant_id: 1874
+    :slug: containers/63-gold-twist-top
+    :quantity: 1
+  - :variant_id: 2305
+    :slug: wick/lx-24
+    :quantity: 1
+  - :variant_id: 2309
+    :slug: wick/lx-26
+    :quantity: 1
+  - :variant_id: 1400
+    :slug: fragrance/christmas-hearth-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1284
+    :slug: fragrance/angel-type-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1638
+    :slug: fragrance/lavender-chamomile-fragrance-oil
+    :quantity: 1
+  - :variant_id: 3262
+    :slug: fragrance/cassia-and-amber-fragrance-oil
+    :quantity: 1
+  - :variant_id: 996
+    :slug: fragrance/english-garden-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1635
+    :slug: fragrance/lavender-chamomile-fragrance-oil
+    :quantity: 1
+  - :variant_id: 2080
+    :slug: containers/medium-lucida-jar
+    :quantity: 2
+  - :variant_id: 3141
+    :slug: equipment/1inch-labels
+    :quantity: 1
+  :ship_address:
+    :country_id: 49
+    :state_id: 48
+    :zipcode: '11377'
+  :shipping_method_id: 22
+- :number: R094930864
+  :line_items:
+  - :variant_id: 220
+    :slug: fragrance/black-cherry-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1462
+    :slug: fragrance/oakmoss-and-amber-fragrance-oil
+    :quantity: 1
+  - :variant_id: 995
+    :slug: fragrance/english-garden-fragrance-oil
+    :quantity: 1
+  - :variant_id: 2713
+    :slug: color/yellow-liquid-dye
+    :quantity: 1
+  - :variant_id: 2708
+    :slug: color/red-liquid-dye
+    :quantity: 1
+  - :variant_id: 2659
+    :slug: color/blue-liquid-dye
+    :quantity: 1
+  - :variant_id: 1426
+    :slug: fragrance/apple-harvest-fragrance-oil
+    :quantity: 1
+  - :variant_id: 4267
+    :slug: fragrance/black-sea-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1699
+    :slug: fragrance/cotton-tree-fragrance-oil
+    :quantity: 1
+  - :variant_id: 358
+    :slug: fragrance/cucumber-melon-fragrance-oil
+    :quantity: 1
+  - :variant_id: 419
+    :slug: fragrance/gardenia-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1336
+    :slug: fragrance/grapefruit-and-mangosteen-fragrance-oil
+    :quantity: 1
+  - :variant_id: 570
+    :slug: fragrance/mediterranean-fig-fragrance-oil
+    :quantity: 1
+  - :variant_id: 622
+    :slug: fragrance/peach-fragrance-oil
+    :quantity: 1
+  - :variant_id: 699
+    :slug: fragrance/rose-fragrance-oil
+    :quantity: 1
+  - :variant_id: 762
+    :slug: fragrance/sweet-pea-fragrance-oil
+    :quantity: 1
+  - :variant_id: 2441
+    :slug: wick/eco-10
+    :quantity: 1
+  - :variant_id: 3141
+    :slug: equipment/1inch-labels
+    :quantity: 1
+  - :variant_id: 80
+    :slug: wax/golden-brands-444-soy-wax
+    :quantity: 1
+  :ship_address:
+    :country_id: 49
+    :state_id: 48
+    :zipcode: '11223'
+  :shipping_method_id: 22
+- :number: R143046424
+  :line_items:
+  - :variant_id: 1535
+    :slug: fragrance/black-raspberry-vanilla-type-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1472
+    :slug: fragrance/caribbean-teakwood-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1066
+    :slug: fragrance/coconut-lime-fragrance-oil
+    :quantity: 1
+  - :variant_id: 353
+    :slug: fragrance/cucumber-melon-fragrance-oil
+    :quantity: 1
+  - :variant_id: 995
+    :slug: fragrance/english-garden-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1337
+    :slug: fragrance/grapefruit-and-mangosteen-fragrance-oil
+    :quantity: 1
+  - :variant_id: 487
+    :slug: fragrance/hydrangea-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1482
+    :slug: fragrance/jamaica-me-crazy-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1653
+    :slug: fragrance/mango-tangerine-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1722
+    :slug: fragrance/orange-chili-pepper-fragrance-oil
+    :quantity: 1
+  - :variant_id: 670
+    :slug: fragrance/rain-water-fragrance-oil
+    :quantity: 1
+  - :variant_id: 925
+    :slug: fragrance/smoke-and-odor-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1444
+    :slug: fragrance/warm-vanilla-sugar-type-fragrance-oil
+    :quantity: 1
+  - :variant_id: 63
+    :slug: wax/igi-6006
+    :quantity: 1
+  - :variant_id: 16
+    :slug: wax/ecosoya-pillar-soy-wax
+    :quantity: 1
+  - :variant_id: 2115
+    :slug: containers/wax-melt-clamshell
+    :quantity: 1
+  - :variant_id: 1930
+    :slug: containers/8oz-mason-jar
+    :quantity: 1
+  - :variant_id: 1880
+    :slug: containers/pewter-jelly-lid
+    :quantity: 1
+  - :variant_id: 2193
+    :slug: wick/eco-2
+    :quantity: 2
+  :ship_address:
+    :country_id: 49
+    :state_id: 8
+    :zipcode: '28411'
+  :shipping_method_id: 22
+- :number: R214021473
+  :line_items:
+  - :variant_id: 469
+    :slug: fragrance/honeysuckle-jasmine-fragrance-oil
+    :quantity: 1
+  - :variant_id: 4025
+    :slug: fragrance/mint-mojito-fragrance-oil
+    :quantity: 1
+  - :variant_id: 415
+    :slug: fragrance/gardenia-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1707
+    :slug: fragrance/peach-nectar-fragrance-oil
+    :quantity: 1
+  - :variant_id: 4137
+    :slug: containers/straight-sided-tumbler-jar-white
+    :quantity: 2
+  - :variant_id: 220
+    :slug: fragrance/black-cherry-fragrance-oil
+    :quantity: 1
+  - :variant_id: 4253
+    :slug: fragrance/blood-orange-fragrance-oil
+    :quantity: 1
+  - :variant_id: 4015
+    :slug: fragrance/amber-noir-fragrance-oil
+    :quantity: 1
+  - :variant_id: 2453
+    :slug: wick/eco-14
+    :quantity: 1
+  - :variant_id: 236
+    :slug: fragrance/blueberry-cheesecake-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1103
+    :slug: fragrance/mango-papaya-fragrance-oil
+    :quantity: 1
+  - :variant_id: 3268
+    :slug: packaging/white-tumbler-box
+    :quantity: 2
+  - :variant_id: 775
+    :slug: fragrance/vanilla-hazelnut-fragrance-oil
+    :quantity: 1
+  - :variant_id: 89
+    :slug: wax/golden-brands-464-soy-wax
+    :quantity: 1
+  :ship_address:
+    :country_id: 49
+    :state_id: 48
+    :zipcode: '11433'
+  :shipping_method_id: 22
+- :number: R225233082
+  :line_items:
+  - :variant_id: 2441
+    :slug: wick/eco-10
+    :quantity: 1
+  - :variant_id: 89
+    :slug: wax/golden-brands-464-soy-wax
+    :quantity: 1
+  - :variant_id: 1774
+    :slug: containers/16oz-apothecary-jar
+    :quantity: 1
+  - :variant_id: 1855
+    :slug: containers/large-flat-top
+    :quantity: 2
+  - :variant_id: 2468
+    :slug: wick/eco-16
+    :quantity: 1
+  - :variant_id: 1771
+    :slug: containers/26oz-apothecary-jar
+    :quantity: 1
+  - :variant_id: 3211
+    :slug: fragrance/frankincense-and-myrrh-fragrance-oil
+    :quantity: 1
+  - :variant_id: 3003
+    :slug: color/canary-yellow-dye-blocks
+    :quantity: 1
+  - :variant_id: 3042
+    :slug: color/navy-blue-dye-blocks
+    :quantity: 1
+  - :variant_id: 2968
+    :slug: color/red-dye-blocks
+    :quantity: 1
+  - :variant_id: 470
+    :slug: fragrance/honeysuckle-jasmine-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1753
+    :slug: containers/8oz-candle-tin
+    :quantity: 2
+  - :variant_id: 4025
+    :slug: fragrance/mint-mojito-fragrance-oil
+    :quantity: 1
+  - :variant_id: 3141
+    :slug: equipment/1inch-labels
+    :quantity: 1
+  - :variant_id: 3138
+    :slug: equipment/2inch-labels
+    :quantity: 1
+  - :variant_id: 996
+    :slug: fragrance/english-garden-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1597
+    :slug: fragrance/egyptian-amber-fragrance-oil
+    :quantity: 1
+  :ship_address:
+    :country_id: 49
+    :state_id: 26
+    :zipcode: '21921'
+  :shipping_method_id: 22
+- :number: R371161135
+  :line_items:
+  - :variant_id: 4139
+    :slug: containers/straight-sided-tumbler-jar-amber
+    :quantity: 2
+  - :variant_id: 3249
+    :slug: containers/8oz-mason-jar-label-ready
+    :quantity: 6
+  - :variant_id: 89
+    :slug: wax/golden-brands-464-soy-wax
+    :quantity: 1
+  - :variant_id: 1473
+    :slug: fragrance/caribbean-teakwood-fragrance-oil
+    :quantity: 1
+  - :variant_id: 531
+    :slug: fragrance/lemon-verbena-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1428
+    :slug: fragrance/apple-harvest-fragrance-oil
+    :quantity: 1
+  - :variant_id: 3984
+    :slug: fragrance/cinnamon-chai-fragrance-oil
+    :quantity: 1
+  - :variant_id: 405
+    :slug: fragrance/fruit-slices-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1337
+    :slug: fragrance/grapefruit-and-mangosteen-fragrance-oil
+    :quantity: 1
+  - :variant_id: 3141
+    :slug: equipment/1inch-labels
+    :quantity: 1
+  - :variant_id: 1907
+    :slug: containers/gold-jelly-lid
+    :quantity: 6
+  :ship_address:
+    :country_id: 49
+    :state_id: 44
+    :zipcode: '30087'
+  :shipping_method_id: 22
+- :number: R569690728
+  :line_items:
+  - :variant_id: 89
+    :slug: wax/golden-brands-464-soy-wax
+    :quantity: 1
+  - :variant_id: 2441
+    :slug: wick/eco-10
+    :quantity: 1
+  - :variant_id: 293
+    :slug: fragrance/clean-cotton-fragrance-oil
+    :quantity: 1
+  - :variant_id: 3308
+    :slug: fragrance/lemon-pound-cake-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1283
+    :slug: fragrance/angel-type-fragrance-oil
+    :quantity: 1
+  - :variant_id: 415
+    :slug: fragrance/gardenia-fragrance-oil
+    :quantity: 1
+  - :variant_id: 4267
+    :slug: fragrance/black-sea-fragrance-oil
+    :quantity: 1
+  - :variant_id: 216
+    :slug: fragrance/black-cherry-fragrance-oil
+    :quantity: 1
+  - :variant_id: 925
+    :slug: fragrance/smoke-and-odor-fragrance-oil
+    :quantity: 1
+  - :variant_id: 753
+    :slug: fragrance/sunwashed-linen-fragrance-oil
+    :quantity: 1
+  - :variant_id: 748
+    :slug: fragrance/sunwashed-linen-fragrance-oil
+    :quantity: 1
+  - :variant_id: 2005
+    :slug: containers/12oz-oval-hex-jar
+    :quantity: 1
+  - :variant_id: 2088
+    :slug: containers/63-silver-twist-top
+    :quantity: 1
+  - :variant_id: 1804
+    :slug: containers/6oz-hex-jar
+    :quantity: 1
+  - :variant_id: 2084
+    :slug: containers/58-silver-twist-top
+    :quantity: 1
+  :ship_address:
+    :country_id: 49
+    :state_id: 8
+    :zipcode: '27540'
+  :shipping_method_id: 22
+- :number: R571684450
+  :line_items:
+  - :variant_id: 843
+    :slug: fragrance/chocolate-fudge-fragrance-oil
+    :quantity: 1
+  - :variant_id: 274
+    :slug: fragrance/cinnamon-buns-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1354
+    :slug: fragrance/day-at-the-spa-fragrance-oil
+    :quantity: 1
+  - :variant_id: 401
+    :slug: fragrance/fresh-coffee-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1389
+    :slug: fragrance/gingerbread-fragrance-oil
+    :quantity: 1
+  - :variant_id: 507
+    :slug: fragrance/lavender-fragrance-oil
+    :quantity: 1
+  - :variant_id: 585
+    :slug: fragrance/mistletoe-fragrance-oil
+    :quantity: 1
+  - :variant_id: 3226
+    :slug: fragrance/mulled-cider-and-chestnuts-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1675
+    :slug: fragrance/peppermint-bark-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1525
+    :slug: fragrance/raspberry-sangria-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1753
+    :slug: containers/8oz-candle-tin
+    :quantity: 2
+  - :variant_id: 84
+    :slug: wax/golden-brands-415-soy-wax
+    :quantity: 2
+  - :variant_id: 3122
+    :slug: equipment/wick-bar
+    :quantity: 1
+  - :variant_id: 3141
+    :slug: equipment/1inch-labels
+    :quantity: 1
+  - :variant_id: 3190
+    :slug: equipment/wick-stickums-large
+    :quantity: 1
+  - :variant_id: 2447
+    :slug: wick/eco-12
+    :quantity: 1
+  :ship_address:
+    :country_id: 49
+    :state_id: 31
+    :zipcode: '44021'
+  :shipping_method_id: 22
+- :number: R588173538
+  :line_items:
+  - :variant_id: 1829
+    :slug: containers/8oz-jelly-jar
+    :quantity: 1
+  - :variant_id: 2064
+    :slug: containers/12oz-canning-jar
+    :quantity: 12
+  - :variant_id: 2060
+    :slug: containers/16oz-canning-jar
+    :quantity: 24
+  - :variant_id: 1798
+    :slug: containers/12oz-status-jar
+    :quantity: 12
+  - :variant_id: 4396
+    :slug: containers/rustic-jelly-lid
+    :quantity: 2
+  - :variant_id: 2442
+    :slug: wick/eco-10
+    :quantity: 2
+  - :variant_id: 85
+    :slug: wax/golden-brands-415-soy-wax
+    :quantity: 10
+  - :variant_id: 15
+    :slug: wax/ecosoya-pillar-soy-wax
+    :quantity: 10
+  - :variant_id: 89
+    :slug: wax/golden-brands-464-soy-wax
+    :quantity: 13
+  - :variant_id: 3073
+    :slug: color/brown-dye-blocks
+    :quantity: 6
+  - :variant_id: 3003
+    :slug: color/canary-yellow-dye-blocks
+    :quantity: 6
+  - :variant_id: 3012
+    :slug: color/forest-green-dye-blocks
+    :quantity: 6
+  - :variant_id: 3047
+    :slug: color/lavender-dye-blocks
+    :quantity: 12
+  - :variant_id: 3042
+    :slug: color/navy-blue-dye-blocks
+    :quantity: 6
+  - :variant_id: 2973
+    :slug: color/pink-dye-blocks
+    :quantity: 6
+  - :variant_id: 2994
+    :slug: color/pumpkin-dye-blocks
+    :quantity: 6
+  - :variant_id: 2968
+    :slug: color/red-dye-blocks
+    :quantity: 6
+  - :variant_id: 1429
+    :slug: fragrance/apple-harvest-fragrance-oil
+    :quantity: 1
+  - :variant_id: 200
+    :slug: fragrance/banana-nut-bread-fragrance-oil
+    :quantity: 1
+  - :variant_id: 215
+    :slug: fragrance/black-cherry-fragrance-oil
+    :quantity: 3
+  - :variant_id: 243
+    :slug: fragrance/blueberry-cobbler-fragrance-oil
+    :quantity: 1
+  - :variant_id: 252
+    :slug: fragrance/caramelized-pralines-fragrance-oil
+    :quantity: 1
+  - :variant_id: 277
+    :slug: fragrance/cinnamon-buns-fragrance-oil
+    :quantity: 1
+  - :variant_id: 286
+    :slug: fragrance/cinnamon-stick-fragrance-oil
+    :quantity: 1
+  - :variant_id: 329
+    :slug: fragrance/cotton-candy-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1599
+    :slug: fragrance/egyptian-amber-fragrance-oil
+    :quantity: 1
+  - :variant_id: 399
+    :slug: fragrance/fresh-coffee-fragrance-oil
+    :quantity: 1
+  - :variant_id: 435
+    :slug: fragrance/hansel-gretels-house-fragrance-oil
+    :quantity: 1
+  - :variant_id: 444
+    :slug: fragrance/hazelnut-coffee-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1500
+    :slug: fragrance/honeysuckle-fragrance-oil
+    :quantity: 4
+  - :variant_id: 1483
+    :slug: fragrance/jamaica-me-crazy-fragrance-oil
+    :quantity: 1
+  - :variant_id: 541
+    :slug: fragrance/lilac-fragrance-oil
+    :quantity: 1
+  - :variant_id: 792
+    :slug: fragrance/love-spell-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1465
+    :slug: fragrance/oakmoss-and-amber-fragrance-oil
+    :quantity: 1
+  - :variant_id: 3287
+    :slug: fragrance/orange-and-goji-berry-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1148
+    :slug: fragrance/pecan-pie-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1049
+    :slug: fragrance/very-vanilla-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1491
+    :slug: fragrance/beach-linen-fragrance-oil
+    :quantity: 2
+  - :variant_id: 3235
+    :slug: fragrance/caramel-popcorn-fragrance-oil
+    :quantity: 2
+  - :variant_id: 292
+    :slug: fragrance/clean-cotton-fragrance-oil
+    :quantity: 1
+  - :variant_id: 312
+    :slug: fragrance/cool-citrus-basil-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1701
+    :slug: fragrance/cotton-tree-fragrance-oil
+    :quantity: 2
+  - :variant_id: 346
+    :slug: fragrance/creme-brulee-fragrance-oil
+    :quantity: 2
+  - :variant_id: 996
+    :slug: fragrance/english-garden-fragrance-oil
+    :quantity: 1
+  - :variant_id: 488
+    :slug: fragrance/hydrangea-fragrance-oil
+    :quantity: 1
+  - :variant_id: 3299
+    :slug: fragrance/island-coconut-fragrance-oil
+    :quantity: 2
+  - :variant_id: 1091
+    :slug: fragrance/juniper-breeze-fragrance-oil
+    :quantity: 1
+  - :variant_id: 513
+    :slug: fragrance/lavender-cucumber-sage-fragrance-oil
+    :quantity: 1
+  - :variant_id: 3309
+    :slug: fragrance/lemon-pound-cake-fragrance-oil
+    :quantity: 1
+  - :variant_id: 531
+    :slug: fragrance/lemon-verbena-fragrance-oil
+    :quantity: 2
+  - :variant_id: 1410
+    :slug: fragrance/nag-champa-fragrance-oil
+    :quantity: 2
+  - :variant_id: 1708
+    :slug: fragrance/peach-nectar-fragrance-oil
+    :quantity: 2
+  - :variant_id: 1518
+    :slug: fragrance/pink-sugar-type-fragrance-oil
+    :quantity: 1
+  - :variant_id: 644
+    :slug: fragrance/plumeria-fragrance-oil
+    :quantity: 1
+  - :variant_id: 926
+    :slug: fragrance/smoke-and-odor-fragrance-oil
+    :quantity: 2
+  - :variant_id: 1156
+    :slug: fragrance/strawberry-shortcake-fragrance-oil
+    :quantity: 2
+  - :variant_id: 1982
+    :slug: containers/6oz-candle-tin
+    :quantity: 1
+  - :variant_id: 748
+    :slug: fragrance/sunwashed-linen-fragrance-oil
+    :quantity: 1
+  :ship_address:
+    :country_id: 49
+    :state_id: 16
+    :zipcode: '15714'
+  :shipping_method_id: 22
+- :number: R608456097
+  :line_items:
+  - :variant_id: 1128
+    :slug: fragrance/buttered-rum-fragrance-oil
+    :quantity: 1
+  - :variant_id: 686
+    :slug: fragrance/red-hot-cinnamon-fragrance-oil
+    :quantity: 1
+  - :variant_id: 259
+    :slug: fragrance/chardonnay-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1155
+    :slug: fragrance/strawberry-shortcake-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1074
+    :slug: fragrance/sex-on-the-beach-fragrance-oil
+    :quantity: 2
+  - :variant_id: 297
+    :slug: fragrance/clean-cotton-fragrance-oil
+    :quantity: 1
+  - :variant_id: 4260
+    :slug: fragrance/garden-mint-fragrance-oil
+    :quantity: 1
+  - :variant_id: 232
+    :slug: fragrance/blueberry-cheesecake-fragrance-oil
+    :quantity: 1
+  - :variant_id: 3233
+    :slug: fragrance/caramel-popcorn-fragrance-oil
+    :quantity: 1
+  - :variant_id: 3208
+    :slug: wick/eco-75-tealight
+    :quantity: 1
+  - :variant_id: 1945
+    :slug: containers/clear-plastic-tealight-cups
+    :quantity: 1
+  - :variant_id: 2878
+    :slug: color/navy-blue-dye-chips
+    :quantity: 2
+  - :variant_id: 2747
+    :slug: color/aqua-marine-dye-chips
+    :quantity: 2
+  - :variant_id: 2807
+    :slug: color/cinnamon-red-dye-chips
+    :quantity: 2
+  - :variant_id: 2893
+    :slug: color/pale-pink-dye-chips
+    :quantity: 1
+  - :variant_id: 2839
+    :slug: color/hunter-green-dye-chips
+    :quantity: 1
+  - :variant_id: 2197
+    :slug: wick/eco-4
+    :quantity: 1
+  - :variant_id: 1605
+    :slug: fragrance/black-currant-tea-fragrance-oil
+    :quantity: 1
+  - :variant_id: 4266
+    :slug: fragrance/black-sea-fragrance-oil
+    :quantity: 1
+  :ship_address:
+    :country_id: 49
+    :state_id: 44
+    :zipcode: '30553'
+  :shipping_method_id: 22
+- :number: R639594596
+  :line_items:
+  - :variant_id: 89
+    :slug: wax/golden-brands-464-soy-wax
+    :quantity: 1
+  - :variant_id: 1346
+    :slug: fragrance/cake-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1137
+    :slug: fragrance/cedarwood-vanilla-fragrance-oil
+    :quantity: 1
+  - :variant_id: 275
+    :slug: fragrance/cinnamon-buns-fragrance-oil
+    :quantity: 1
+  - :variant_id: 3308
+    :slug: fragrance/lemon-pound-cake-fragrance-oil
+    :quantity: 1
+  - :variant_id: 512
+    :slug: fragrance/lavender-cucumber-sage-fragrance-oil
+    :quantity: 1
+  - :variant_id: 2830
+    :slug: color/gold-dye-chips
+    :quantity: 2
+  - :variant_id: 2747
+    :slug: color/aqua-marine-dye-chips
+    :quantity: 1
+  - :variant_id: 2849
+    :slug: color/lavender-dye-chips
+    :quantity: 1
+  - :variant_id: 2844
+    :slug: color/ivory-dye-chips
+    :quantity: 2
+  - :variant_id: 3190
+    :slug: equipment/wick-stickums-large
+    :quantity: 1
+  - :variant_id: 3122
+    :slug: equipment/wick-bar
+    :quantity: 2
+  - :variant_id: 3116
+    :slug: equipment/glass-thermometer
+    :quantity: 2
+  - :variant_id: 3203
+    :slug: equipment/small-pouring-pitcher
+    :quantity: 4
+  - :variant_id: 2441
+    :slug: wick/eco-10
+    :quantity: 1
+  - :variant_id: 258
+    :slug: fragrance/chardonnay-fragrance-oil
+    :quantity: 1
+  :ship_address:
+    :country_id: 49
+    :state_id: 26
+    :zipcode: '20662'
+  :shipping_method_id: 22
+- :number: R702039938
+  :line_items:
+  - :variant_id: 4141
+    :slug: containers/straight-sided-tumbler-jar-black
+    :quantity: 6
+  - :variant_id: 1820
+    :slug: containers/4oz-squat-hex-jar
+    :quantity: 4
+  - :variant_id: 4146
+    :slug: packaging/white-straight-sided-tumbler-box
+    :quantity: 6
+  - :variant_id: 1603
+    :slug: fragrance/black-currant-tea-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1958
+    :slug: containers/6oz-tureen-jar
+    :quantity: 4
+  - :variant_id: 1915
+    :slug: containers/82-gold-twist-top
+    :quantity: 4
+  - :variant_id: 1926
+    :slug: containers/58-gold-twist-top
+    :quantity: 4
+  - :variant_id: 644
+    :slug: fragrance/plumeria-fragrance-oil
+    :quantity: 1
+  - :variant_id: 608
+    :slug: fragrance/ocean-breeze-fragrance-oil
+    :quantity: 1
+  - :variant_id: 2123
+    :slug: containers/2oz-status-jar
+    :quantity: 2
+  - :variant_id: 3753
+    :slug: equipment/wax-melt-warning-labels
+    :quantity: 1
+  - :variant_id: 3141
+    :slug: equipment/1inch-labels
+    :quantity: 1
+  - :variant_id: 2112
+    :slug: containers/wax-melt-clamshell
+    :quantity: 5
+  :ship_address:
+    :country_id: 49
+    :state_id: 48
+    :zipcode: '12047'
+  :shipping_method_id: 22
+- :number: R715262343
+  :line_items:
+  - :variant_id: 1363
+    :slug: fragrance/driftwood-fragrance-oil
+    :quantity: 1
+  - :variant_id: 757
+    :slug: fragrance/sweet-pea-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1698
+    :slug: fragrance/cotton-tree-fragrance-oil
+    :quantity: 1
+  - :variant_id: 3141
+    :slug: equipment/1inch-labels
+    :quantity: 1
+  - :variant_id: 925
+    :slug: fragrance/smoke-and-odor-fragrance-oil
+    :quantity: 1
+  - :variant_id: 310
+    :slug: fragrance/cool-citrus-basil-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1335
+    :slug: fragrance/grapefruit-and-mangosteen-fragrance-oil
+    :quantity: 1
+  :ship_address:
+    :country_id: 49
+    :state_id: 48
+    :zipcode: '11746'
+  :shipping_method_id: 39
+- :number: R717188853
+  :line_items:
+  - :variant_id: 2447
+    :slug: wick/eco-12
+    :quantity: 1
+  - :variant_id: 2543
+    :slug: wick/lx-wick-sample-kit
+    :quantity: 1
+  - :variant_id: 2541
+    :slug: wick/csn-wick-sample-kit
+    :quantity: 1
+  - :variant_id: 3189
+    :slug: equipment/wick-stickums-large
+    :quantity: 1
+  - :variant_id: 3139
+    :slug: equipment/2inch-labels
+    :quantity: 1
+  - :variant_id: 89
+    :slug: wax/golden-brands-464-soy-wax
+    :quantity: 1
+  - :variant_id: 1708
+    :slug: fragrance/peach-nectar-fragrance-oil
+    :quantity: 2
+  - :variant_id: 1473
+    :slug: fragrance/caribbean-teakwood-fragrance-oil
+    :quantity: 2
+  - :variant_id: 1338
+    :slug: fragrance/grapefruit-and-mangosteen-fragrance-oil
+    :quantity: 2
+  - :variant_id: 1482
+    :slug: fragrance/jamaica-me-crazy-fragrance-oil
+    :quantity: 2
+  - :variant_id: 1527
+    :slug: fragrance/raspberry-sangria-fragrance-oil
+    :quantity: 2
+  - :variant_id: 1301
+    :slug: fragrance/meadow-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1636
+    :slug: fragrance/lavender-chamomile-fragrance-oil
+    :quantity: 1
+  - :variant_id: 516
+    :slug: fragrance/lavender-cucumber-sage-fragrance-oil
+    :quantity: 1
+  - :variant_id: 999
+    :slug: fragrance/english-garden-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1463
+    :slug: fragrance/oakmoss-and-amber-fragrance-oil
+    :quantity: 1
+  - :variant_id: 617
+    :slug: fragrance/peach-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1562
+    :slug: fragrance/rosemary-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1065
+    :slug: fragrance/coconut-lime-fragrance-oil
+    :quantity: 1
+  - :variant_id: 600
+    :slug: fragrance/mulberry-fragrance-oil
+    :quantity: 1
+  - :variant_id: 4259
+    :slug: fragrance/garden-mint-fragrance-oil
+    :quantity: 1
+  :ship_address:
+    :country_id: 49
+    :state_id: 25
+    :zipcode: '37129'
+  :shipping_method_id: 22
+- :number: R725514412
+  :line_items:
+  - :variant_id: 2193
+    :slug: wick/eco-2
+    :quantity: 1
+  - :variant_id: 2563
+    :slug: molds/3x3-Round-Pillar-Mold-Concave-Top
+    :quantity: 1
+  - :variant_id: 2623
+    :slug: molds/flaired-votive-candle-mold
+    :quantity: 1
+  - :variant_id: 3169
+    :slug: equipment/votive-wick-pin
+    :quantity: 1
+  - :variant_id: 1046
+    :slug: fragrance/very-vanilla-fragrance-oil
+    :quantity: 1
+  :ship_address:
+    :country_id: 49
+    :state_id: 46
+    :zipcode: '02346'
+  :shipping_method_id: 39
+- :number: R733222949
+  :line_items:
+  - :variant_id: 1426
+    :slug: fragrance/apple-harvest-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1408
+    :slug: fragrance/nag-champa-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1291
+    :slug: fragrance/dragons-blood-fragrance-oil
+    :quantity: 1
+  - :variant_id: 279
+    :slug: fragrance/cinnamon-buns-fragrance-oil
+    :quantity: 1
+  - :variant_id: 671
+    :slug: fragrance/rain-water-fragrance-oil
+    :quantity: 1
+  :ship_address:
+    :country_id: 49
+    :state_id: 42
+    :zipcode: '41001'
+  :shipping_method_id: 39
+- :number: R734337591
+  :line_items:
+  - :variant_id: 1955
+    :slug: containers/3oz-tureen-jar
+    :quantity: 2
+  - :variant_id: 1964
+    :slug: containers/70-gold-twist-top
+    :quantity: 1
+  - :variant_id: 1958
+    :slug: containers/6oz-tureen-jar
+    :quantity: 2
+  - :variant_id: 2098
+    :slug: containers/82-silver-twist-top
+    :quantity: 1
+  - :variant_id: 2447
+    :slug: wick/eco-12
+    :quantity: 1
+  - :variant_id: 80
+    :slug: wax/golden-brands-444-soy-wax
+    :quantity: 1
+  - :variant_id: 3190
+    :slug: equipment/wick-stickums-large
+    :quantity: 2
+  - :variant_id: 3122
+    :slug: equipment/wick-bar
+    :quantity: 2
+  - :variant_id: 556
+    :slug: fragrance/macintosh-apple-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1156
+    :slug: fragrance/strawberry-shortcake-fragrance-oil
+    :quantity: 1
+  - :variant_id: 671
+    :slug: fragrance/rain-water-fragrance-oil
+    :quantity: 1
+  - :variant_id: 2441
+    :slug: wick/eco-10
+    :quantity: 1
+  :ship_address:
+    :country_id: 49
+    :state_id: 26
+    :zipcode: '21136'
+  :shipping_method_id: 22
+- :number: R736382347
+  :line_items:
+  - :variant_id: 2035
+    :slug: containers/4oz-jelly-jar
+    :quantity: 167
+  - :variant_id: 1829
+    :slug: containers/8oz-jelly-jar
+    :quantity: 1
+  - :variant_id: 80
+    :slug: wax/golden-brands-444-soy-wax
+    :quantity: 46
+  - :variant_id: 2442
+    :slug: wick/eco-10
+    :quantity: 4
+  - :variant_id: 3187
+    :slug: equipment/wick-stickums-small
+    :quantity: 4
+  - :variant_id: 3142
+    :slug: equipment/1inch-labels
+    :quantity: 4
+  - :variant_id: 3182
+    :slug: equipment/melter-65lb
+    :quantity: 1
+  - :variant_id: 2655
+    :slug: color/black-liquid-dye
+    :quantity: 1
+  - :variant_id: 2660
+    :slug: color/blue-liquid-dye
+    :quantity: 1
+  - :variant_id: 2665
+    :slug: color/brown-liquid-dye
+    :quantity: 1
+  - :variant_id: 2670
+    :slug: color/burgundy-liquid-dye
+    :quantity: 1
+  - :variant_id: 2733
+    :slug: color/golden-honey-liquid-dye
+    :quantity: 1
+  - :variant_id: 2680
+    :slug: color/hunter-green-liquid-dye
+    :quantity: 1
+  - :variant_id: 2685
+    :slug: color/ivory-liquid-dye
+    :quantity: 1
+  - :variant_id: 2690
+    :slug: color/magenta-liquid-dye
+    :quantity: 1
+  - :variant_id: 2699
+    :slug: color/orange-liquid-dye
+    :quantity: 1
+  - :variant_id: 2704
+    :slug: color/purple-liquid-dye
+    :quantity: 1
+  - :variant_id: 2709
+    :slug: color/red-liquid-dye
+    :quantity: 1
+  - :variant_id: 2728
+    :slug: color/summer-breeze-liquid-dye
+    :quantity: 1
+  - :variant_id: 2714
+    :slug: color/yellow-liquid-dye
+    :quantity: 1
+  - :variant_id: 4396
+    :slug: containers/rustic-jelly-lid
+    :quantity: 4
+  - :variant_id: 732
+    :slug: fragrance/strudel-spice-fragrance-oil
+    :quantity: 1
+  - :variant_id: 182
+    :slug: fragrance/apples-maple-bourbon-fragrance-oil
+    :quantity: 1
+  - :variant_id: 243
+    :slug: fragrance/blueberry-cobbler-fragrance-oil
+    :quantity: 1
+  - :variant_id: 3236
+    :slug: fragrance/caramel-popcorn-fragrance-oil
+    :quantity: 1
+  - :variant_id: 313
+    :slug: fragrance/cool-citrus-basil-fragrance-oil
+    :quantity: 1
+  - :variant_id: 347
+    :slug: fragrance/creme-brulee-fragrance-oil
+    :quantity: 1
+  - :variant_id: 399
+    :slug: fragrance/fresh-coffee-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1663
+    :slug: fragrance/harvest-berry-fragrance-oil
+    :quantity: 1
+  - :variant_id: 3300
+    :slug: fragrance/island-coconut-fragrance-oil
+    :quantity: 1
+  - :variant_id: 3310
+    :slug: fragrance/lemon-pound-cake-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1655
+    :slug: fragrance/mango-tangerine-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1709
+    :slug: fragrance/peach-nectar-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1148
+    :slug: fragrance/pecan-pie-fragrance-oil
+    :quantity: 1
+  - :variant_id: 899
+    :slug: fragrance/pineapple-coconut-fragrance-oil
+    :quantity: 5
+  - :variant_id: 961
+    :slug: fragrance/pumpkin-souffle-fragrance-oil
+    :quantity: 1
+  - :variant_id: 926
+    :slug: fragrance/smoke-and-odor-fragrance-oil
+    :quantity: 5
+  - :variant_id: 161
+    :slug: fragrance/amaretto-nog-fragrance-oil
+    :quantity: 5
+  - :variant_id: 577
+    :slug: fragrance/mimosa-and-mandarin-fragrance-oil
+    :quantity: 1
+  :ship_address:
+    :country_id: 49
+    :state_id: 51
+    :zipcode: '25248'
+  :shipping_method_id: 22
+- :number: R744026634
+  :line_items:
+  - :variant_id: 2110
+    :slug: containers/medium-straight-sided-jar
+    :quantity: 4
+  - :variant_id: 1964
+    :slug: containers/70-gold-twist-top
+    :quantity: 4
+  - :variant_id: 47
+    :slug: wax/igi-4630
+    :quantity: 4
+  - :variant_id: 3249
+    :slug: containers/8oz-mason-jar-label-ready
+    :quantity: 3
+  - :variant_id: 1892
+    :slug: containers/rustic-jelly-lid
+    :quantity: 3
+  - :variant_id: 1823
+    :slug: containers/8oz-tureen-jar
+    :quantity: 2
+  - :variant_id: 1915
+    :slug: containers/82-gold-twist-top
+    :quantity: 2
+  - :variant_id: 2289
+    :slug: wick/lx-18
+    :quantity: 1
+  - :variant_id: 2245
+    :slug: wick/htp-83
+    :quantity: 1
+  - :variant_id: 2713
+    :slug: color/yellow-liquid-dye
+    :quantity: 1
+  - :variant_id: 199
+    :slug: fragrance/banana-nut-bread-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1048
+    :slug: fragrance/very-vanilla-fragrance-oil
+    :quantity: 1
+  - :variant_id: 460
+    :slug: fragrance/honeydew-melon-fragrance-oil
+    :quantity: 1
+  - :variant_id: 175
+    :slug: fragrance/apple-jack-peel-fragrance-oil
+    :quantity: 1
+  :ship_address:
+    :country_id: 49
+    :state_id: 28
+    :zipcode: '23920'
+  :shipping_method_id: 22
+- :number: R763475668
+  :line_items:
+  - :variant_id: 2655
+    :slug: color/black-liquid-dye
+    :quantity: 1
+  - :variant_id: 2659
+    :slug: color/blue-liquid-dye
+    :quantity: 1
+  - :variant_id: 3141
+    :slug: equipment/1inch-labels
+    :quantity: 1
+  - :variant_id: 622
+    :slug: fragrance/peach-fragrance-oil
+    :quantity: 1
+  - :variant_id: 558
+    :slug: fragrance/macintosh-apple-fragrance-oil
+    :quantity: 1
+  :ship_address:
+    :country_id: 49
+    :state_id: 49
+    :zipcode: '29607'
+  :shipping_method_id: 39
+- :number: R807317236
+  :line_items:
+  - :variant_id: 263
+    :slug: fragrance/chardonnay-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1426
+    :slug: fragrance/apple-harvest-fragrance-oil
+    :quantity: 1
+  - :variant_id: 963
+    :slug: fragrance/pumpkin-souffle-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1777
+    :slug: containers/8oz-apothecary-jar
+    :quantity: 1
+  - :variant_id: 1850
+    :slug: containers/large-dome-top
+    :quantity: 1
+  - :variant_id: 2623
+    :slug: molds/flaired-votive-candle-mold
+    :quantity: 1
+  - :variant_id: 2698
+    :slug: color/orange-liquid-dye
+    :quantity: 1
+  - :variant_id: 2708
+    :slug: color/red-liquid-dye
+    :quantity: 1
+  - :variant_id: 2703
+    :slug: color/purple-liquid-dye
+    :quantity: 1
+  - :variant_id: 39
+    :slug: wax/igi-4625
+    :quantity: 1
+  - :variant_id: 47
+    :slug: wax/igi-4630
+    :quantity: 1
+  - :variant_id: 2277
+    :slug: wick/lx-12
+    :quantity: 1
+  - :variant_id: 2293
+    :slug: wick/lx-20
+    :quantity: 1
+  - :variant_id: 3141
+    :slug: equipment/1inch-labels
+    :quantity: 1
+  - :variant_id: 3138
+    :slug: equipment/2inch-labels
+    :quantity: 1
+  - :variant_id: 3306
+    :slug: fragrance/lemon-pound-cake-fragrance-oil
+    :quantity: 1
+  :ship_address:
+    :country_id: 49
+    :state_id: 6
+    :zipcode: '60143'
+  :shipping_method_id: 22
+- :number: R856477075
+  :line_items:
+  - :variant_id: 2281
+    :slug: wick/lx-14
+    :quantity: 2
+  - :variant_id: 2285
+    :slug: wick/lx-16
+    :quantity: 2
+  - :variant_id: 2293
+    :slug: wick/lx-20
+    :quantity: 2
+  - :variant_id: 3144
+    :slug: equipment/ez-wick-setter-multi
+    :quantity: 1
+  - :variant_id: 2305
+    :slug: wick/lx-24
+    :quantity: 1
+  - :variant_id: 2289
+    :slug: wick/lx-18
+    :quantity: 1
+  - :variant_id: 4016
+    :slug: fragrance/amber-noir-fragrance-oil
+    :quantity: 1
+  - :variant_id: 3190
+    :slug: equipment/wick-stickums-large
+    :quantity: 2
+  - :variant_id: 3138
+    :slug: equipment/2inch-labels
+    :quantity: 2
+  - :variant_id: 1426
+    :slug: fragrance/apple-harvest-fragrance-oil
+    :quantity: 1
+  - :variant_id: 4267
+    :slug: fragrance/black-sea-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1699
+    :slug: fragrance/cotton-tree-fragrance-oil
+    :quantity: 1
+  - :variant_id: 699
+    :slug: fragrance/rose-fragrance-oil
+    :quantity: 1
+  - :variant_id: 789
+    :slug: fragrance/love-spell-fragrance-oil
+    :quantity: 1
+  :ship_address:
+    :country_id: 49
+    :state_id: 6
+    :zipcode: '60643'
+  :shipping_method_id: 22
+- :number: R898101839
+  :line_items:
+  - :variant_id: 88
+    :slug: wax/golden-brands-464-soy-wax
+    :quantity: 1
+  - :variant_id: 16
+    :slug: wax/ecosoya-pillar-soy-wax
+    :quantity: 1
+  - :variant_id: 1777
+    :slug: containers/8oz-apothecary-jar
+    :quantity: 1
+  - :variant_id: 1774
+    :slug: containers/16oz-apothecary-jar
+    :quantity: 1
+  - :variant_id: 1804
+    :slug: containers/6oz-hex-jar
+    :quantity: 1
+  - :variant_id: 1850
+    :slug: containers/large-dome-top
+    :quantity: 1
+  - :variant_id: 1855
+    :slug: containers/large-flat-top
+    :quantity: 1
+  - :variant_id: 2008
+    :slug: containers/43-gold-twist-top
+    :quantity: 1
+  - :variant_id: 2112
+    :slug: containers/wax-melt-clamshell
+    :quantity: 1
+  - :variant_id: 1945
+    :slug: containers/clear-plastic-tealight-cups
+    :quantity: 1
+  - :variant_id: 3246
+    :slug: wick/eco-1-tealight
+    :quantity: 1
+  - :variant_id: 2189
+    :slug: wick/eco-1
+    :quantity: 1
+  - :variant_id: 2623
+    :slug: molds/flaired-votive-candle-mold
+    :quantity: 1
+  - :variant_id: 2635
+    :slug: molds/tart-mold
+    :quantity: 1
+  - :variant_id: 2747
+    :slug: color/aqua-marine-dye-chips
+    :quantity: 1
+  - :variant_id: 2807
+    :slug: color/cinnamon-red-dye-chips
+    :quantity: 1
+  - :variant_id: 2792
+    :slug: color/butterscotch-dye-chips
+    :quantity: 1
+  - :variant_id: 2893
+    :slug: color/pale-pink-dye-chips
+    :quantity: 1
+  - :variant_id: 190
+    :slug: fragrance/baby-powder-fragrance-oil
+    :quantity: 1
+  - :variant_id: 197
+    :slug: fragrance/banana-nut-bread-fragrance-oil
+    :quantity: 1
+  - :variant_id: 297
+    :slug: fragrance/clean-cotton-fragrance-oil
+    :quantity: 1
+  - :variant_id: 504
+    :slug: fragrance/lavender-fragrance-oil
+    :quantity: 1
+  - :variant_id: 288
+    :slug: fragrance/cinnamon-stick-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1051
+    :slug: fragrance/very-vanilla-fragrance-oil
+    :quantity: 1
+  - :variant_id: 3138
+    :slug: equipment/2inch-labels
+    :quantity: 1
+  :ship_address:
+    :country_id: 49
+    :state_id: 27
+    :zipcode: '33411'
+  :shipping_method_id: 22
+- :number: R906082479
+  :line_items:
+  - :variant_id: 1401
+    :slug: fragrance/christmas-hearth-fragrance-oil
+    :quantity: 2
+  - :variant_id: 432
+    :slug: fragrance/hansel-gretels-house-fragrance-oil
+    :quantity: 2
+  - :variant_id: 1678
+    :slug: fragrance/peppermint-bark-fragrance-oil
+    :quantity: 2
+  - :variant_id: 2684
+    :slug: color/ivory-liquid-dye
+    :quantity: 1
+  - :variant_id: 2802
+    :slug: color/christmas-green-dye-chips
+    :quantity: 2
+  - :variant_id: 3142
+    :slug: equipment/1inch-labels
+    :quantity: 1
+  - :variant_id: 3138
+    :slug: equipment/2inch-labels
+    :quantity: 2
+  - :variant_id: 2664
+    :slug: color/brown-liquid-dye
+    :quantity: 1
+  - :variant_id: 583
+    :slug: fragrance/mistletoe-fragrance-oil
+    :quantity: 2
+  - :variant_id: 1392
+    :slug: fragrance/gingerbread-fragrance-oil
+    :quantity: 2
+  - :variant_id: 978
+    :slug: fragrance/brandied-pear-fragrance-oil
+    :quantity: 2
+  - :variant_id: 2245
+    :slug: wick/htp-83
+    :quantity: 2
+  - :variant_id: 44
+    :slug: wax/igi-4627
+    :quantity: 1
+  - :variant_id: 3982
+    :slug: fragrance/cinnamon-chai-fragrance-oil
+    :quantity: 1
+  - :variant_id: 198
+    :slug: fragrance/banana-nut-bread-fragrance-oil
+    :quantity: 1
+  :ship_address:
+    :country_id: 49
+    :state_id: 28
+    :zipcode: '23139'
+  :shipping_method_id: 22
+- :number: R917424140
+  :line_items:
+  - :variant_id: 4016
+    :slug: fragrance/amber-noir-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1364
+    :slug: fragrance/driftwood-fragrance-oil
+    :quantity: 1
+  - :variant_id: 2018
+    :slug: containers/12-cube-jar
+    :quantity: 1
+  - :variant_id: 3308
+    :slug: fragrance/lemon-pound-cake-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1571
+    :slug: fragrance/pomegranate-fragrance-oil
+    :quantity: 1
+  - :variant_id: 2201
+    :slug: wick/eco-6
+    :quantity: 1
+  - :variant_id: 2447
+    :slug: wick/eco-12
+    :quantity: 1
+  - :variant_id: 7
+    :slug: wax/ecosoya-advanced-soy-wax
+    :quantity: 1
+  - :variant_id: 84
+    :slug: wax/golden-brands-415-soy-wax
+    :quantity: 1
+  - :variant_id: 2468
+    :slug: wick/eco-16
+    :quantity: 1
+  - :variant_id: 88
+    :slug: wax/golden-brands-464-soy-wax
+    :quantity: 1
+  - :variant_id: 2151
+    :slug: containers/classic-tumbler-jar
+    :quantity: 1
+  - :variant_id: 2453
+    :slug: wick/eco-14
+    :quantity: 1
+  - :variant_id: 197
+    :slug: fragrance/banana-nut-bread-fragrance-oil
+    :quantity: 1
+  :ship_address:
+    :country_id: 49
+    :state_id: 11
+    :zipcode: '72802'
+  :shipping_method_id: 22
+- :number: R926072228
+  :line_items:
+  - :variant_id: 16
+    :slug: wax/ecosoya-pillar-soy-wax
+    :quantity: 1
+  - :variant_id: 2698
+    :slug: color/orange-liquid-dye
+    :quantity: 1
+  - :variant_id: 2713
+    :slug: color/yellow-liquid-dye
+    :quantity: 1
+  - :variant_id: 2708
+    :slug: color/red-liquid-dye
+    :quantity: 1
+  - :variant_id: 660
+    :slug: fragrance/pumpkin-pie-fragrance-oil
+    :quantity: 2
+  - :variant_id: 3138
+    :slug: equipment/2inch-labels
+    :quantity: 1
+  - :variant_id: 2110
+    :slug: containers/medium-straight-sided-jar
+    :quantity: 1
+  - :variant_id: 3203
+    :slug: equipment/small-pouring-pitcher
+    :quantity: 1
+  - :variant_id: 39
+    :slug: wax/igi-4625
+    :quantity: 1
+  - :variant_id: 2893
+    :slug: color/pale-pink-dye-chips
+    :quantity: 1
+  - :variant_id: 1299
+    :slug: fragrance/meadow-fragrance-oil
+    :quantity: 1
+  - :variant_id: 2635
+    :slug: molds/tart-mold
+    :quantity: 1
+  - :variant_id: 2277
+    :slug: wick/lx-12
+    :quantity: 1
+  - :variant_id: 197
+    :slug: fragrance/banana-nut-bread-fragrance-oil
+    :quantity: 1
+  - :variant_id: 540
+    :slug: fragrance/lilac-fragrance-oil
+    :quantity: 1
+  - :variant_id: 4056
+    :slug: fragrance/whiskey-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1362
+    :slug: fragrance/driftwood-fragrance-oil
+    :quantity: 1
+  - :variant_id: 179
+    :slug: fragrance/apples-maple-bourbon-fragrance-oil
+    :quantity: 1
+  - :variant_id: 2477
+    :slug: wick/csn-7
+    :quantity: 1
+  - :variant_id: 1820
+    :slug: containers/4oz-squat-hex-jar
+    :quantity: 1
+  - :variant_id: 646
+    :slug: fragrance/plumeria-fragrance-oil
+    :quantity: 1
+  - :variant_id: 2623
+    :slug: molds/flaired-votive-candle-mold
+    :quantity: 1
+  - :variant_id: 1398
+    :slug: fragrance/christmas-hearth-fragrance-oil
+    :quantity: 1
+  - :variant_id: 434
+    :slug: fragrance/hansel-gretels-house-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1010
+    :slug: fragrance/christmas-tree-fragrance-oil
+    :quantity: 1
+  - :variant_id: 396
+    :slug: fragrance/fresh-coffee-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1353
+    :slug: fragrance/day-at-the-spa-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1263
+    :slug: fragrance/drakkar-type-fragrance-oil
+    :quantity: 1
+  - :variant_id: 190
+    :slug: fragrance/baby-powder-fragrance-oil
+    :quantity: 1
+  :ship_address:
+    :country_id: 49
+    :state_id: 1
+    :zipcode: '49630'
+  :shipping_method_id: 22
+- :number: R929911099
+  :line_items:
+  - :variant_id: 2197
+    :slug: wick/eco-4
+    :quantity: 1
+  - :variant_id: 2441
+    :slug: wick/eco-10
+    :quantity: 1
+  - :variant_id: 794
+    :slug: fragrance/love-spell-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1154
+    :slug: fragrance/strawberry-shortcake-fragrance-oil
+    :quantity: 1
+  - :variant_id: 1635
+    :slug: fragrance/lavender-chamomile-fragrance-oil
+    :quantity: 1
+  :ship_address:
+    :country_id: 49
+    :state_id: 29
+    :zipcode: '56074'
+  :shipping_method_id: 39
