@@ -1,7 +1,19 @@
 require 'ruby-jmeter'
 require_relative 'lib/rails_driver'
 require_relative 'lib/solidus_sandbox_driver'
-require 'yaml'
+require_relative 'orders'
+
+ALCHEMY_PAGES = [
+  "wick-guide",
+  "spa-fragrances",
+  "snowman-luminaries-and-room-fresheners",
+  "fragrance-blotter-strips",
+  "contact",
+  "reed-diffusers",
+  "ngi-uses-american-grown-soybeans",
+  "quick_order",
+  "fruit-and-floral-fragrances",
+]
 
 class CandleScienceDriver < SolidusSandboxDriver
   def perform(order)
@@ -9,11 +21,10 @@ class CandleScienceDriver < SolidusSandboxDriver
 
     sign_up
 
-    order[:line_items].each do |line_item|
-      visit "/#{line_item[:slug]}"
+    order.values.last[:line_items].each do |line_item|
       add_to_cart(line_item)
+    end
 
-    add_to_cart
     start_checkout
     get_state_id
 
@@ -72,12 +83,14 @@ class CandleScienceDriver < SolidusSandboxDriver
   end
 
   def add_to_cart(line_item)
-    post '/orders/populate', {
-      'variant_id'         => line_item[:variant_id],
-      'quantity'           => line_item[:quantity]
-    } do
-      extract css: 'input[id^="order_line_items"]', name: 'line_item_id', attribute: :value, match_number: 1
+    visit "/#{line_item[0]}", name: "show #{line_item[0]}" do
+      extract css: 'input[name="variant_id"]', name: 'variant_id', attribute: :value, match_number: 0
     end
+
+    post '/orders/populate', {
+      'variant_id'         => '${variant_id}',
+      'quantity'           => line_item[1]
+    }
   end
 
   def address_step
@@ -103,16 +116,12 @@ class CandleScienceDriver < SolidusSandboxDriver
 
   def start_checkout
     patch '/cart',
-          "order[line_items_attributes][0][quantity]" => "1",
-          "order[line_items_attributes][0][id]" => '${line_item_id}',
+          "order[line_items_attributes][bogus]" => "",
           "checkout" => "" do
       extract xpath: '//select[@name="order[bill_address_attributes][country_id]"]/option[text()="United States of America"]/@value', name: 'country_id', tolerant: true
     end
   end
 end
-
-yaml_file_name = ARGV[0] || 'orders.yml'
-orders = YAML.load_file(yaml_file_name)
 
 test do
   aggregate_graph
@@ -126,16 +135,22 @@ test do
   header name: 'X-No-Throttle', value: '533ebbcfa332680dad67f99c4439aff11d8359a7ddb50bb249e42d56eacb0da3ad2fe421315fd9a825ca6f714c806c843678a3eb602b02e416d7db8e5484da66'
   auth username: 'spree_cs_demo', password: 'k33pS3cr3tz%'
   #defaults domain: 'psychomantis.herokuapp.com', protocol: 'https', image_parser: false
-  defaults domain: 'localhost', protocol: 'https', image_parser: false, use_concurrent_pool: 5
+  defaults domain: 'localhost', protocol: 'http', port: '3000', image_parser: false, use_concurrent_pool: 5
 
   cache clear_each_iteration: true
   cookies policy: "standard", clear_each_iteration: true
 
-  orders.each do |order|
-    threads {count: 10, duration: 240, on_sample_error: 'startnextloop'}.merge(order.fetch(:threads, {})) do
+  CS_ORDERS[0..1].each do |order|
+    threads({name: "#{order.keys.first} checkout", count: 1, duration: 2400, on_sample_error: 'startnextloop'}) do
       transaction 'checkout' do
         CandleScienceDriver.new(self).perform(order)
       end
+    end
+  end
+
+  threads({name: "Alchemy Pages", count: 1, duration: 2400}) do
+    ALCHEMY_PAGES.each do |page|
+      visit "/#{page}", name: page
     end
   end
 end.run(path: File.dirname(`which jmeter`), gui: true)
